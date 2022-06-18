@@ -28,7 +28,7 @@ Restful
 
 ```bash
   usuario : jesus@buzon.digital
-  Password : 1245678
+  Password : 12345678
 ```
 
 
